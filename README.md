@@ -8,3 +8,4 @@
 - to our email(the edited version of the app please)writen above
 - it is writen in python(.py)
 - there is also arduino code for a solar tracker please help us improve t it is writen in c (i think)https://github.com/EzraVision/Our-Solar-Tracker-code
+- This is not payed work you do not get any money for editing this code or doing anything for us unless you are an employee for us so do not ask us for money

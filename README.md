@@ -1,5 +1,5 @@
-- 👋 Hi, we're EzraVision a company India  
-- 👀 we're interested in electronics
+- 👋 Hi, we're EzraVision a company in India  
+- we're interested in electronics
 - 🌱 we're currently learning programming to make an app for android and ios
 - 📫 How to reach my company on gmail ezravisionelectronics@gmail.com 
 - Our website is soon to be launched ezravision.co.in please stand by till then

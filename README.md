@@ -3,3 +3,4 @@
 - 🌱 we're currently learning programming to make an app for android and ios
 - 📫 How to reach my company on gmail ezravisionelectronics@gmail.com 
 - Our website is soon to be launched ezravision.co.in please stand by till then
+- to see our app code go to https://github.com/EzraVision/Our-ios-Android-App

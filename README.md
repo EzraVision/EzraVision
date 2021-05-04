@@ -6,3 +6,4 @@
 - to see our app code go to https://github.com/EzraVision/Our-ios-Android-App for terms of use of the codes 
 - And to edit the code go to https://github.com/EzraVision/Our-ios-Android-App/blob/main/App.py and send it 
 - to our email(the edited version of the app please)writen above
+- it is writen in python(.py)

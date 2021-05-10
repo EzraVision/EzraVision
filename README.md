@@ -9,3 +9,4 @@
 - it is writen in python(.py)
 - there is also arduino code for a solar tracker please help us improve t it is writen in c (i think)https://github.com/EzraVision/Our-Solar-Tracker-code
 - This is not payed work you do not get any money for editing this code or doing anything for us unless you are an employee for us so do not ask us for money
+- We would also like to thank ExplainingComputers for showing us how to make our website (it is still a work in progress)Go to his website Https:// explainingcomputers.com
